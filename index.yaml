@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  diy-my-r-project:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-05-25T18:21:40.101943409Z"
+    description: DIY Cloud Computing with R
+    digest: fe560cd42d4e135872086dd1784fa1c91b343ca7140a7628293803f95b376ac4
+    name: diy-my-r-project
+    type: application
+    urls:
+    - https://diy-ds-cloud.github.io/my-r-project/diy-my-r-project-0.0.1-n002.hab87121.tgz
+    version: 0.0.1-n002.hab87121
+generated: "2022-05-25T18:21:40.101312859Z"
